@@ -1,5 +1,3 @@
-Tentu, berikut adalah README yang diperbarui tanpa menggunakan `requirements.txt`:
-
 ---
 
 # Image2Excel CLI
