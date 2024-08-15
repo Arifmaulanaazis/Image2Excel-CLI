@@ -7,7 +7,7 @@
 
 Image2Excel CLI adalah sebuah alat baris perintah (CLI) yang memungkinkan Anda mengubah gambar menjadi file Excel, dengan setiap sel Excel mewakili satu piksel gambar, mewarnai setiap sel sesuai dengan warna piksel yang sesuai.
 
-[Unduh versi Windows Prebuild Terbaru]([https://github.com/Arifmaulanaazis/Image2Excel-CLI/releases/latest])
+[Unduh versi Windows Prebuild Terbaru](https://github.com/Arifmaulanaazis/Image2Excel-CLI/releases/latest)
 
 ## Dependensi
 
