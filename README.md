@@ -2,6 +2,14 @@
 
 # Image2Excel CLI
 
+<div align="center">
+    <img src="https://img.shields.io/github/v/release/Arifmaulanaazis/Image2Excel-CLI" alt="GitHub release version">
+    <img src="https://img.shields.io/github/release-date/Arifmaulanaazis/Image2Excel-CLI" alt="GitHub Release Date">
+    <img src="https://img.shields.io/github/last-commit/Arifmaulanaazis/Image2Excel-CLI" alt="GitHub last commit">
+    <img src="https://img.shields.io/github/downloads/Arifmaulanaazis/Image2Excel-CLI/total" alt="GitHub Download count">
+</div>
+
+
 ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
 ![License](https://img.shields.io/badge/license-GPLv3-blue.svg)
 
