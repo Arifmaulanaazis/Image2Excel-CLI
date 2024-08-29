@@ -3,15 +3,14 @@
 # Image2Excel CLI
 
 <div align="center">
+    <img src="https://img.shields.io/badge/python-v3.7+-blue.svg" alt="Python">
+    <img src="https://img.shields.io/badge/license-GPLv3-blue.svg" alt="License">
     <img src="https://img.shields.io/github/v/release/Arifmaulanaazis/Image2Excel-CLI" alt="GitHub release version">
     <img src="https://img.shields.io/github/release-date/Arifmaulanaazis/Image2Excel-CLI" alt="GitHub Release Date">
     <img src="https://img.shields.io/github/last-commit/Arifmaulanaazis/Image2Excel-CLI" alt="GitHub last commit">
     <img src="https://img.shields.io/github/downloads/Arifmaulanaazis/Image2Excel-CLI/total" alt="GitHub Download count">
 </div>
 
-
-![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
-![License](https://img.shields.io/badge/license-GPLv3-blue.svg)
 
 Image2Excel CLI adalah sebuah alat baris perintah (CLI) yang memungkinkan Anda mengubah gambar menjadi file Excel, dengan setiap sel Excel mewakili satu piksel gambar, mewarnai setiap sel sesuai dengan warna piksel yang sesuai.
 
